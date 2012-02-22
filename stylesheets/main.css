@@ -79,7 +79,9 @@ ul {
 list-style-type: none;
 }
 
-#sidebar{background-color: #c40c1d;
+#sidebar{
+
+background-color: #c40c1d;
 -webkit-border-radius: 10px 0px 0px 0px;
 -moz-border-radius: 10px 0px 0px 0px;
 width:200px;
@@ -117,6 +119,7 @@ height: 735px ;
 }
 
 #footer {
+
 clear: both;
 width: 658px;
 background-color: #9A987D;
@@ -127,4 +130,23 @@ border-width: 1px 1px 1px 1px;
 position:absolute;
 -webkit-border-radius: 0px 0px 10px 0px;
 -moz-border-radius: 0px 0px 10px 0px;
+}
+
+#footer li{
+height:20px;
+font-weight:bold;
+font-size:12px;
+float:left;
+width:90px;
+display:block;
+margin-left: 0px;
+margin-bottom:0px;
+padding: 0px 5px 0px 5px ;
+text-shadow:1px 1px 1px;
+border-style:solid;
+border-width:0px 1px 0px 0px;
+color:white;
+text-align:center;
+
+
 }
