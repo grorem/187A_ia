@@ -103,8 +103,9 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #0088cc;
+  color: white;
   text-decoration: none;
+  text-shadow:1px 1px 1px
 }
 a:hover {
   color: #005580;

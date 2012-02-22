@@ -1,0 +1,127 @@
+#lowerinfo{
+border-style:solid;
+border-width: 0px 1px 0px 0px;
+height:150px;
+border-color:#c40c1d;
+}
+
+#banner_nav{
+
+background:#c40c1d;
+}
+
+#banner_nav li{
+
+font-size:22px;
+float:left;
+width:110px;
+display:block;
+
+margin-bottom:15px;
+padding: 0px 10px 0px 10px ;
+text-shadow:1px 1px 1px;
+border-style:solid;
+border-width:0px 1px 0px 0px;
+color:white;
+text-align:center;
+}
+
+.active{
+text-decoration: underline;
+font-weight: bold;
+}
+
+
+.menu{
+text-align:right;
+padding:20px;
+}
+
+h1{
+color:white;
+}
+
+h3{
+color:white;
+}
+
+#topper{
+border-style:solid;
+border-right-width:0px;
+border-left-width:0px;
+border-top-width:0px;
+border-bottom-width:2px;
+border-color:#c40c1d;
+padding-bottom:7px;
+height:65px;
+}
+
+
+
+.row{
+padding-top:10px;
+}
+
+.container{
+padding: 10px;
+-webkit-border-radius: 10px;
+}
+
+#everything{
+background: url('../images/husk.png') ;
+
+}
+
+ul {
+list-style-type: none;
+}
+
+#sidebar{background-color: #c40c1d;
+-webkit-border-radius: 10px 0px 0px 0px;
+-moz-border-radius: 10px 0px 0px 0px;
+width:200px;
+height:795px;
+
+}
+
+ #sidebar li{
+ padding: 40px 0px 40px 0px;
+ border-style:solid;
+border-width: 0px 0px 1px 0px;
+ color:white;
+ font-size: 15px;
+ color: white;
+ text-align:center;
+ }
+
+
+#banner{
+height:125px;
+
+-webkit-border-radius: 10px 0px 0px 0px;
+
+-moz-border-radius: 10px 0px 0px 0px;
+
+background:#c40c1d;
+}
+
+#maincontent{
+height: 735px ;
+
+-webkit-border-radius: 10px;
+-moz-border-radius: 15px;
+
+}
+
+#footer {
+clear: both;
+width: 658px;
+background-color: #9A987D;
+padding: 20px;
+border-color: #999;
+border-style: solid;
+border-width: 1px 1px 1px 1px;
+position:absolute;
+-webkit-border-radius: 0px 0px 10px 0px;
+-moz-border-radius: 0px 0px 10px 0px;
+}
