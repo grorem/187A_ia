@@ -13,7 +13,7 @@ background:#c40c1d;
 }
 
 #banner_nav li{
-font-weight:bold;
+/*font-weight:bold;*/
 font-size:15px;
 float:left;
 width:110px;
@@ -21,7 +21,7 @@ display:block;
 margin-left: 15px;
 margin-bottom:15px;
 padding: 0px 10px 0px 10px ;
-text-shadow:1px 1px 1px;
+/*text-shadow:1px 1px 1px;*/
 border-style:solid;
 border-width:0px 1px 0px 0px;
 color:white;
@@ -150,3 +150,26 @@ text-align:center;
 
 
 }
+
+/*Main Assignment Styles*/
+.assignment_header {
+   font-size:30px;
+   
+}
+
+.section_divider {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+
+.title_header {
+    font-size: 16px;
+    font-color: black;
+}
+
+a.assignment_default {
+  color: #005580;
+  text-decoration: underline;
+}
+
+
