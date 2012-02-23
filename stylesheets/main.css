@@ -13,7 +13,6 @@ background:#c40c1d;
 }
 
 #banner_nav li{
-/*font-weight:bold;*/
 font-size:15px;
 float:left;
 width:110px;
@@ -107,7 +106,8 @@ height:125px;
 
 -moz-border-radius: 10px 0px 0px 0px;
 
-background:#c40c1d;
+/*background:#c40c1d;*/
+background: url('../images/louisiana_banner.png');
 }
 
 #maincontent{
@@ -159,7 +159,7 @@ text-align:center;
 
 .section_divider {
     border-bottom: 1px solid black;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .title_header {
