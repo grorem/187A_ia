@@ -2477,10 +2477,10 @@ button.btn.small, input[type="submit"].btn.small {
   transition: none;
 }
 .navbar-search .search-query :-moz-placeholder {
-  color: #eeeeee;
+  color: black;
 }
 .navbar-search .search-query::-webkit-input-placeholder {
-  color: #eeeeee;
+  color: black;
 }
 .navbar-search .search-query:hover {
   color: #ffffff;

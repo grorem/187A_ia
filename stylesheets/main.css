@@ -12,6 +12,13 @@ padding-right:7px;
 background:#c40c1d;
 }
 
+#searchbar{
+ padding:35px 0px 0px 200px;
+
+
+}
+
+
 #banner_nav li{
 font-size:15px;
 float:left;
@@ -71,7 +78,7 @@ padding: 10px;
 
 #everything{
 background: url('../images/husk.png') ;
-
+height:980px;
 }
 
 ul {
@@ -84,7 +91,7 @@ background-color: #c40c1d;
 -webkit-border-radius: 10px 0px 0px 0px;
 -moz-border-radius: 10px 0px 0px 0px;
 width:200px;
-height:795px;
+height:695px;
 
 }
 
@@ -110,8 +117,20 @@ height:125px;
 background: url('../images/louisiana_banner2.png');
 }
 
+#banner li{
+color:black;
+text-align: right;
+float:left;
+
+width:100px;
+
+}
+
+
+
+
 #maincontent{
-height: 735px ;
+height: 695px ;
 
 -webkit-border-radius: 10px;
 -moz-border-radius: 15px;
@@ -119,11 +138,11 @@ height: 735px ;
 }
 
 #footer {
-
+margin-top:12px;
 clear: both;
-width: 658px;
+width: 940px;
 background-color: #9A987D;
-padding: 20px;
+padding: 10px 0px 0px 0px;
 border-color: #999;
 border-style: solid;
 border-width: 1px 1px 1px 1px;
@@ -137,7 +156,7 @@ height:20px;
 font-weight:bold;
 font-size:12px;
 float:left;
-width:90px;
+width:135px;
 display:block;
 margin-left: 0px;
 margin-bottom:0px;
