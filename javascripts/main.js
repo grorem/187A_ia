@@ -13,3 +13,8 @@ $(document).ready(function() {
 $(window).load(function() {
     $('#slider').nivoSlider();
 });
+
+
+$(document).ready(function() {
+                            $('#coin-slider').coinslider();
+                              });
