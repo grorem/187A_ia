@@ -8,3 +8,8 @@ $(document).ready(function() {
   $('.fancybox').fancybox();
 
 });
+
+
+$(window).load(function() {
+    $('#slider').nivoSlider();
+});
