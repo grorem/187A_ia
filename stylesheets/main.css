@@ -12,16 +12,7 @@ padding-left:10px;
 background:#c40c1d;
 }
 
-/*#searchbar{
- padding:35px 0px 0px 200px;
 
-
-}*/
-
-#searchbar{
- margin: 35px 0px 0px 70px;
-
-}
 
 #banner_nav li{
 font-size:15px;
@@ -31,7 +22,6 @@ display:block;
 margin-left: 0px;
 margin-bottom:15px;
 padding: 0px 0px 0px 0px ;
-/*text-shadow:1px 1px 1px;*/
 border-style:solid;
 border-width:0px 0px 0px 0px;
 color:white;
@@ -117,7 +107,7 @@ border-width: 0px 0px 1px 0px;
  color:white;
  font-size: 15px;
  color: white;
- text-align:center;
+ text-align:right;
  }
 
 
@@ -128,19 +118,22 @@ height:125px;
 
 -moz-border-radius: 10px 0px 0px 0px;
 
-/*background:#c40c1d;*/
 background: url('../images/louisiana_banner2.png');
+
 }
 
 #banner li{
 color:black;
-
 float:right;
-
-width:65px;
 padding-top:12px;
+text-align: left;
+margin-right: 44px;
 }
 
+li#search_positioning { 
+   margin-right: -292px;
+   margin-top:30px;
+}
 
 
 
@@ -213,6 +206,7 @@ text-align:center;
 a.current_page {
    text-decoration: underline;
    font-weight:600;
+
 }
 
 li.breadcrumbs_current_page {
@@ -220,5 +214,20 @@ li.breadcrumbs_current_page {
    text-decoration: underline;
 }
 
+ul.nav_style {
+   margin-left: 24px;
+   
+}
+
+a.assignment_default {
+   color: #244E9E;
+}
 
 
+#banner_clickable {
+   display: block;
+   height: 125px;
+   width: 650px;
+   position: absolute;
+   z-index: 1;
+}
