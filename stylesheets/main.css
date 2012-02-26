@@ -221,6 +221,7 @@ ul.nav_style {
 
 a.assignment_default {
    color: #244E9E;
+   
 }
 
 
@@ -230,4 +231,24 @@ a.assignment_default {
    width: 650px;
    position: absolute;
    z-index: 1;
+}
+
+.main_header {
+   color:#c40c1d;
+     font-weight: 700;
+  text-rendering: optimizelegibility;
+    font-size: 18px;
+  line-height: 36px;
+  text-align: center;
+}
+
+#search_glass{
+
+height: 21px;
+width:23px;
+background: url('../images/search_glass.png');
+z-index:3;
+position: absolute;
+margin-top: 60px;
+margin-left: 860px;
 }
