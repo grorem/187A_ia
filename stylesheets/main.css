@@ -87,6 +87,11 @@ ul {
 list-style-type: none;
 }
 
+.breadcrumb a{
+color:black;
+
+}
+
 #sidebar{
 
 background-color: #c40c1d;
