@@ -120,11 +120,11 @@ background: url('../images/louisiana_banner2.png');
 
 #banner li{
 color:black;
-text-align: right;
-float:left;
 
-width:100px;
-padding-top:10px;
+float:right;
+
+width:105px;
+padding-top:12px;
 }
 
 
@@ -132,9 +132,8 @@ padding-top:10px;
 
 #maincontent{
 height: 695px ;
+background:white;
 
--webkit-border-radius: 10px;
--moz-border-radius: 15px;
 
 }
 
