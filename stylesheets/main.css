@@ -80,10 +80,15 @@ height:1310px;
 ul {
 list-style-type: none;
 }
-
+/*
 #breadcrumb{
 margin-right:200px;
 
+}
+*/
+
+ul.breadcrumb {
+   margin: 0px;
 }
 
 .breadcrumb a{
