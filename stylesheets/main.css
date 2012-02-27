@@ -1,7 +1,7 @@
 #lowerinfo{
 border-style:solid;
 border-width: 0px 1px 0px 0px;
-height:150px;
+height:250px;
 border-color:#c40c1d;
 padding-right:5px;
 padding-left:10px;
@@ -250,5 +250,14 @@ background: url('../images/search_glass.png');
 z-index:3;
 position: absolute;
 margin-top: 60px;
-margin-left: 860px;
+margin-left: 865px;
+}
+
+.news_links {
+   color: black;
+   text-decoration: underline;
+}
+
+.news_links:hover {
+   color: #c40c1d;
 }
